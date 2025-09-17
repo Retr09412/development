@@ -1,8 +1,8 @@
 body {
   background-image: url('images/fondo.jpg');
-  background-size: cover;      /* Ajusta la imagen al tamaño de la pantalla */
-  background-position: center; /* Centrada */
-  background-repeat: no-repeat;/* Que no se repita */
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat;
 }
 
 .marg{
